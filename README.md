@@ -1,6 +1,6 @@
 # 🌐 NetScan
 
-Una poderosa herramienta de escaneo de red escrita en Bash que proporciona múltiples métodos para descubrir dispositivos en tu red local. 🚀
+Una poderosa herramienta de escaneo de red escrita en Bash que proporciona múltiples métodos para descubrir dispositivos en tu red local.
 
 ## ✨ Características
 
