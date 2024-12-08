@@ -64,15 +64,6 @@ Esta herramienta está diseñada para ser utilizada en redes donde tengas autori
 
 **Jorge Arana Fedriani**
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, siéntete libre de:
-1. Fork el proyecto
-2. Crear tu rama de características (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add: alguna característica asombrosa'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
-
 ## 💡 Agradecimientos
 
 - A la comunidad de código abierto por las herramientas utilizadas
