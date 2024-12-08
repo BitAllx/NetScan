@@ -64,10 +64,6 @@ Esta herramienta está diseñada para ser utilizada en redes donde tengas autori
 
 **Jorge Arana Fedriani**
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, siéntete libre de:
